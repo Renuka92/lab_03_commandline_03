@@ -76,6 +76,17 @@ Write the command(s) that you used to do this - as well as its output - below:
 
 tar -xvf mtec1002-lab-03.tar.gz
 
+x mtec1002-lab-03/
+x mtec1002-lab-03/._.DS_Store
+x mtec1002-lab-03/.DS_Store
+x mtec1002-lab-03/books/
+x mtec1002-lab-03/logs/
+x mtec1002-lab-03/web/
+x mtec1002-lab-03/web/about.html
+x mtec1002-lab-03/web/css/
+x mtec1002-lab-03/web/img/
+x mtec1002-lab-03/web/index.html
+
 ==========
 8.  You should now have a directory called mtec1002-lab-03 in your home directory.  Verify that this directory exists.
 
