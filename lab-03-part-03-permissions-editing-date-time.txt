@@ -131,7 +131,7 @@ mv copy_to_backup.sh test
 What commands did you use to do this?
 ----------
 
-./test/copy_to_backup.sh
+ent-v314-013:~ student$ ./test/copy_to_backup.sh
 
 ==========
 14. Verify that a backup folder was created in your home directory... with copies of the files present.
