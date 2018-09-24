@@ -113,6 +113,7 @@ echo "I'm done backing up"
 What commands did you use to do this?
 ----------
 
+cd test
 touch 1.txt 2.txt
 
 ==========
